@@ -53,8 +53,6 @@ The system leverages Tokio to handle multiple requests concurrently, demonstrati
 
 ## Getting Started
 
-[Include instructions on how to set up, compile, and run the project]
 
 ## Testing
 
-[Describe the testing approach and how to run tests]
